@@ -1,6 +1,6 @@
-Problem Url: https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/
+//Problem Url: https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/
 
-class Solution {
+class Solution8 {
     public boolean isPowerOfTwo(int n) {
         if(n == 1) return true;
         if(n%2 !=0) return false;
